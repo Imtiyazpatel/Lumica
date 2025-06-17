@@ -1,7 +1,8 @@
+// pages/index.js
 export default function Home() {
   return (
-    <main className="flex min-h-screen items-center justify-center bg-[#0e0e0e] text-white text-3xl font-semibold">
-      🚀 Welcome to Lumica — Your World. Your Flow.
+    <main className="flex min-h-screen items-center justify-center bg-black text-white text-4xl font-bold">
+      LUMICA IS LIVE 💡✨
     </main>
   );
 }
